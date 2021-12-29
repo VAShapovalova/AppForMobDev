@@ -1,6 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AppForMobDev</string>
-    <string name="student_name">Вера Шаповалова, гр. ПИуз-201</string>
-    <string name="poem_ru">Если б мишки были пчелами, \nТо они бы нипочём \nНикогда и не подумали \nТак высоко строить дом!</string>
-    <string name="poem_en">If bears were bees \nThen they would not care \nNever thought \nBuilding a house so high!</string>
+    <string name="app_name">Beer Adviser</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+    <string-array name="light_beer">
+        <item>Nite Lite Craft Lite Beer</item>
+        <item>Inedit Damm Light Beer</item>
+        <item>Bud Light</item>
+    </string-array>
+    <string-array name="amber_beer">
+        <item>Fat Tire Amber Ale</item>
+        <item>Tröegs Nugget Nectar</item>
+        <item>Hop Head Red</item>
+    </string-array>
+    <string-array name="brown_beer">
+        <item>Sweetwater Georgia Brown</item>
+        <item>Durty Mud Season Hoppy Brown Ale from Smuttynose</item>
+        <item>Brooklyn Brown Ale</item>
+    </string-array>
+    <string-array name="dark_beer">
+        <item>Glamorgan Brewing</item>
+        <item>Weal Ales</item>
+        <item>Staffordshire Brewery</item>
+    </string-array>
+    <string name="beer_button">Find beer</string>
+    <string name="attention_button">
+        Attention
+    </string>
+    <string name = "attention_text"> Attention! Excessive beer consumption is harmful to your health! </string>
 </resources>
