@@ -10,15 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppForMobDev">
         <activity
-            android:name=".MainActivity"
-            android:exported="true" >
-
-
+            android:name=".TopLevelActivity"
+            android:exported="true"
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".DrinkCategoryActivity"
+            android:label="@string/title_activity_drink_category" >
+        </activity>
+        <activity
+            android:name=".DrinkActivity"
+            android:label="@string/title_activity_drink" >
         </activity>
     </application>
 
