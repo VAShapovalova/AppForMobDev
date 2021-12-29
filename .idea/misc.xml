@@ -5,10 +5,13 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.19537037037037036" />
+        <entry key="app/src/main/res/layout/activity_create_message.xml" value="0.15579710144927536" />
         <entry key="app/src/main/res/layout/activity_find_beer.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_messager.xml" value="0.15579710144927536" />
         <entry key="app/src/main/res/layout/activity_receive_meassage.xml" value="0.1003614413557839" />
+        <entry key="app/src/main/res/layout/activity_receive_message.xml" value="0.15579710144927536" />
+        <entry key="app/src/main/res/layout/activity_select_message.xml" value="0.15579710144927536" />
       </map>
     </option>
   </component>
