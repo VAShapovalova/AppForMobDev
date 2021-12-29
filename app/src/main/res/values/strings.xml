@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Stopwatch</string>
-    <string name="enter_message">Enter a message</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
-    <string name="reset">Reset</string>
+    <string name="app_name">My Constraint Layout</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="send_button">Send</string>
+    <string name="message_hint">Message</string>
 </resources>
