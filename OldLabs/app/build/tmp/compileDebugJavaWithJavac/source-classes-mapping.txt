@@ -1,2 +1,0 @@
-com/example/appformobdev/BuildConfig.java
- com.example.appformobdev.BuildConfig
