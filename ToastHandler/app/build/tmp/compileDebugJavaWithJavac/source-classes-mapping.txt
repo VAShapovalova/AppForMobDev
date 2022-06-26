@@ -1,0 +1,2 @@
+com/example/toasthandler/BuildConfig.java
+ com.example.toasthandler.BuildConfig

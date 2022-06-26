@@ -1,0 +1,2 @@
+com/shapovalova/logging/BuildConfig.java
+ com.shapovalova.logging.BuildConfig

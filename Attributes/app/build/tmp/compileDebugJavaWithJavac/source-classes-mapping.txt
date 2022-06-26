@@ -1,0 +1,2 @@
+com/shapovalova/attributes/BuildConfig.java
+ com.shapovalova.attributes.BuildConfig
